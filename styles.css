@@ -69,6 +69,23 @@
     width: 200px;
     height: 40px;
     background-color: #A6A6A6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 10px;
+}
+.total{
+    margin-top: 105px;
+    width: 200px;
+    height: 40px;
+    background-color:#8C8C8C ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+
 }
 
 
